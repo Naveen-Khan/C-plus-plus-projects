@@ -119,3 +119,19 @@ This makes the system **safe and user-friendly**.
 1. Clone the repository
    ```bash
    git clone https://github.com/your-username/student-management-system-stack.git
+   
+2. Open the project in VS Code
+
+3. Compile the program
+   ```bash
+   g++ main.cpp -o project
+      ```
+  4. Run the executable
+       ```bash
+     ./project
+
+        ```
+⚠️ This project is Windows-based due to windows.h
+
+
+6. 
