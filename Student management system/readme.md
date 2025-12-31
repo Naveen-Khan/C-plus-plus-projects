@@ -1,7 +1,7 @@
 
 # Student Management System Using Stack (C++)
 
-## 📌 Project Overview
+## Project Overview
 The **Student Management System** is a **console-based application** developed in **C++** as part of the **Data Structures and Algorithms (DSA)** course project.  
 This project demonstrates the **practical implementation of the Stack data structure (LIFO – Last In, First Out)** to manage student records efficiently.
 
@@ -10,7 +10,7 @@ A special **Undo feature** is implemented using an additional stack, which helps
 
 ---
 
-## 🎯 Objectives of the Project
+## Objectives of the Project
 - To implement **Stack data structure** in a real-world application  
 - To understand **LIFO behavior** through insertion and deletion  
 - To provide **Undo functionality** using stack operations  
@@ -19,7 +19,7 @@ A special **Undo feature** is implemented using an additional stack, which helps
 
 ---
 
-## 🧠 Why Stack Data Structure?
+## Why Stack Data Structure?
 The stack is selected because:
 - It follows **LIFO (Last In, First Out)** principle
 - Insert (push) and delete (pop) operations have **O(1) time complexity**
