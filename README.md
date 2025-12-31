@@ -7,7 +7,7 @@ Each project is organized in a **separate folder** with its own source code and 
 
 ## 🧩 Project 1: Employee Management System (C++)
 
-### 📌 Description
+###  Description
 The **Employee Management System** is a menu-driven, console-based application developed in **C++**.  
 It allows users to manage employee records efficiently through operations such as insertion, display, search, update, and deletion.
 
@@ -31,7 +31,7 @@ It allows users to manage employee records efficiently through operations such a
 
 ## 🧩 Project 2: Student Management System Using Stack (DSA)
 
-### 📌 Description
+###  Description
 The **Student Management System Using Stack** is developed as a **Data Structures & Algorithms (DSA)** project.  
 It demonstrates the **practical implementation of Stack (LIFO)** to manage student records, including an advanced **Undo functionality**.
 
@@ -52,7 +52,3 @@ It demonstrates the **practical implementation of Stack (LIFO)** to manage stude
 - Insert / Delete / Undo: **O(1)**
 - Search / Display: **O(n)**
 
-### 📁 Folder
-
-- Loops
-- Basic authentication logic
