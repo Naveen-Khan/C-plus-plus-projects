@@ -1,4 +1,4 @@
-# Employee Management System (C++)
+# Employee-Management-System (C++)
 
 A **console-based Employee Management System** developed in **C++** that allows users to manage employee records efficiently. The system supports employee data entry, search, update, deletion, and secure login functionality through a menu-driven interface.
 
